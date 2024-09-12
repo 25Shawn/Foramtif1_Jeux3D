@@ -166,8 +166,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   centrePlanete: {fileID: 401894413}
   rayonRotation: 26.3
-  curseurRatioTemps: {fileID: 1768355491}
-  ratioTemps: 10759
+  revolution: 10759
 --- !u!114 &152353170 stripped
 MonoBehaviour:
   m_CorrespondingSourceObject: {fileID: 1716033733628203494, guid: 66c79ce08601edb4aa54a7388f73cb8f,
@@ -303,8 +302,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   centrePlanete: {fileID: 401894413}
   rayonRotation: 13
-  curseurRatioTemps: {fileID: 1768355491}
-  ratioTemps: 687
+  revolution: 687
 --- !u!1 &330585543
 GameObject:
   m_ObjectHideFlags: 0
@@ -934,8 +932,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   centrePlanete: {fileID: 1033442205}
   rayonRotation: 1
-  curseurRatioTemps: {fileID: 1768355491}
-  ratioTemps: 3.5
+  revolution: 3.5
 --- !u!1 &569476689
 GameObject:
   m_ObjectHideFlags: 0
@@ -1059,8 +1056,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   centrePlanete: {fileID: 1033442205}
   rayonRotation: 0.75
-  curseurRatioTemps: {fileID: 1768355491}
-  ratioTemps: 1.75
+  revolution: 1.75
 --- !u!1 &778825215
 GameObject:
   m_ObjectHideFlags: 0
@@ -1184,8 +1180,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   centrePlanete: {fileID: 401894413}
   rayonRotation: 31.3
-  curseurRatioTemps: {fileID: 1768355491}
-  ratioTemps: 30685
+  revolution: 30685
 --- !u!1 &832575517
 GameObject:
   m_ObjectHideFlags: 0
@@ -1358,8 +1353,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   centrePlanete: {fileID: 401894413}
   rayonRotation: 7.6
-  curseurRatioTemps: {fileID: 1768355491}
-  ratioTemps: 225
+  revolution: 225
 --- !u!1 &1033442201
 GameObject:
   m_ObjectHideFlags: 0
@@ -1487,8 +1481,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   centrePlanete: {fileID: 401894413}
   rayonRotation: 21.9
-  curseurRatioTemps: {fileID: 1768355491}
-  ratioTemps: 4333
+  revolution: 4333
 --- !u!1001 &1220921003
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -1975,8 +1968,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   centrePlanete: {fileID: 401894413}
   rayonRotation: 10
-  curseurRatioTemps: {fileID: 1768355491}
-  ratioTemps: 365
+  revolution: 365
 --- !u!1 &1391271169
 GameObject:
   m_ObjectHideFlags: 0
@@ -2208,8 +2200,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   centrePlanete: {fileID: 1033442205}
   rayonRotation: 1.5
-  curseurRatioTemps: {fileID: 1768355491}
-  ratioTemps: 17
+  revolution: 17
 --- !u!1 &1640360577
 GameObject:
   m_ObjectHideFlags: 0
@@ -2382,8 +2373,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   centrePlanete: {fileID: 1228841041}
   rayonRotation: 1
-  curseurRatioTemps: {fileID: 1768355491}
-  ratioTemps: 13
+  revolution: 28
 --- !u!1 &1692019080
 GameObject:
   m_ObjectHideFlags: 0
@@ -2507,8 +2497,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   centrePlanete: {fileID: 401894413}
   rayonRotation: 34.6
-  curseurRatioTemps: {fileID: 1768355491}
-  ratioTemps: 60266
+  revolution: 60266
 --- !u!114 &1768355491 stripped
 MonoBehaviour:
   m_CorrespondingSourceObject: {fileID: 2721678061907998786, guid: 66c79ce08601edb4aa54a7388f73cb8f,
@@ -2644,8 +2633,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   centrePlanete: {fileID: 1033442205}
   rayonRotation: 1.25
-  curseurRatioTemps: {fileID: 1768355491}
-  ratioTemps: 7
+  revolution: 7
 --- !u!1 &1875480896
 GameObject:
   m_ObjectHideFlags: 0
@@ -2855,8 +2843,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   centrePlanete: {fileID: 401894413}
   rayonRotation: 3
-  curseurRatioTemps: {fileID: 1768355491}
-  ratioTemps: 88
+  revolution: 88
 --- !u!1 &2053479332
 GameObject:
   m_ObjectHideFlags: 0
